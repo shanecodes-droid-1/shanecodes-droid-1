@@ -1,7 +1,4 @@
-<!-- Header Image -->
-<p align="center">
-  <img src="https://your-banner-image-url.com" alt="Banner Image" width="100%" />
-</p>
+![Header](./your-header-image-name.png)
 
 <h1 align="center">Hi there, I'm Shane McGilycuddy 👋</h1>
 
