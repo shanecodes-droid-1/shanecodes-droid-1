@@ -3,7 +3,7 @@
   <img src="https://your-banner-image-url.com" alt="Banner Image" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Shane McGilycuddy 👋</h1>
 
 <!-- Profile Views & Badges -->
 <p align="center">
@@ -12,12 +12,11 @@
 </p>
 
 ## 👨‍💻 **About Me**
-I'm a passionate **Graduate Software Developer** with expertise in:  
+I'm a passionate **Software Developer** with expertise in:  
 
 - 🔹 **Backend & Database** – SQL, PHP, Java  
 - 🔹 **Frontend Development** – JavaScript, HTML, CSS  
 - 🔹 **Cloud & DevOps** – AWS  
-- 🔹 **Frameworks & Libraries** – Node.js, React (if applicable)  
 
 I'm always eager to learn new technologies and contribute to open-source projects.
 
