@@ -60,7 +60,7 @@ Check out my repositories for more! 📌
 ## 📫 **Let's Connect**
 📩 Reach out to me on:  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shane-mcgillycuddy-10494383)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shanecodes-droid-1)  
 
 ---
