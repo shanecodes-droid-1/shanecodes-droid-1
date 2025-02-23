@@ -4,7 +4,7 @@
 
 <!-- Profile Views & Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shanecodes-droid-1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/-Software%20Developer-blue" alt="Software Developer Badge" />
 </p>
 
@@ -21,10 +21,10 @@ I'm always eager to learn new technologies and contribute to open-source project
 
 ## 🛠️ **Tech Stack**
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="./315437_document_sql_file_icon.png" />
+  <img src="./4373217_java_logo_logos_icon.png" />
+  <img src="./4373082_file_logo_logos_php_script_icon.png" />
+  <img src="./1269842_development_install_javascript_js_node_icon.png" />
   <img src="./104494_html5_html_icon.png" />
   <img src="./9055543_bxs_file_css_icon.png" />
   <img src="./8546827_aws_icon (1).png" />
