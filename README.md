@@ -37,7 +37,6 @@ I'm always eager to learn new technologies and contribute to open-source project
 
 - 🔥 **[Wordcloud Generator](https://github.com/shanecodes-droid-1/wordcloud-1)** – A command line program for creating wordclouds from user input
 - ⚡ **[SQL Database](https://github.com/shanecodes-droid-1/dental-practice-database)** – An example of a database for use in a dental practice 
-- 🌟 **[Project Name](https://github.com/your-username/project-repo)** – Short description  
 
 Check out my repositories for more! 📌
 
