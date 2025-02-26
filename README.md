@@ -36,7 +36,8 @@ I'm always eager to learn new technologies and contribute to open-source project
 🚀 Here are some of my favorite projects:  
 
 - 🔥 **[Wordcloud Generator](https://github.com/shanecodes-droid-1/wordcloud-1)** – A command line program for creating wordclouds from user input
-- ⚡ **[SQL Database](https://github.com/shanecodes-droid-1/dental-practice-database)** – An example of a database for use in a dental practice 
+- ⚡ **[SQL Database](https://github.com/shanecodes-droid-1/dental-practice-database)** – An example of a database for use in a dental practice
+- 💬 **[Chat Application](https://github.com/shanecodes-droid-1/AppChat)** – An example of a chat application
 
 Check out my repositories for more! 📌
 
