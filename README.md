@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<h1 align="center">Hi there, I'm Shane McGilycuddy 👋</h1>
+<h1 align="center">Hi there, I'm Shane McGillycuddy 👋</h1>
 
 <!-- Profile Views & Badges -->
 <p align="center">
